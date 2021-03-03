@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://nav.gentlecp.com',
 
   // 网站标题
   title: 'CP导航',
@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '导航',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Light',
+  theme: 'Sim',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
@@ -36,7 +36,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?3d1705ff05c230f10b9778c76a82c8ad',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
