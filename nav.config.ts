@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/GentleCP/nav',
 
   // 部署分支
   branch: 'main',
@@ -17,13 +17,13 @@ const c: IConfig = {
   homeUrl: 'https://nav3.cn',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'CP导航',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '发现实用网站',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: '导航',
 
   // 默认主题: Light | Sim | Side | App
   theme: 'Light',
@@ -81,7 +81,7 @@ const c: IConfig = {
     posterImageUrls: [
       'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
     ],
-    description: '这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活'
+    description: '我学习过程中收录的网站，共计 <b>${total}</b> 个'
   }
 }
 
