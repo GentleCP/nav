@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '导航',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Sim',
+  theme: 'Side',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
