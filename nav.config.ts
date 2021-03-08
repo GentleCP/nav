@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav.gentlecp.com',
+  // homeUrl: 'https://nav.gentlecp.com',
 
   // 网站标题
   title: 'CP导航',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2021-??? , nav.gentlecp.com, All Rights Reserved</div>
   `,
 
   // 百度统计地址
